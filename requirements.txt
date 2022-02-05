@@ -1,0 +1,4 @@
+azure-digitaltwins-core==1.1.0
+azure-identity==1.7.1
+pendulum==2.1.2
+requests==2.27.1
